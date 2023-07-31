@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\acer\source\repos\bm-poisk\bm-poisk\source.cpp(11): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  BM-poisk.vcxproj -> C:\Users\acer\source\repos\BM-poisk\Debug\BM-poisk.exe
